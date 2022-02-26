@@ -7,13 +7,17 @@
 .container{
     background: #000;
     max-width: 80%;
-    padding: 34px;
+    padding: 35px;
     margin: auto;
 }
 .container h3{
     text-align: center;
     font-family: 'Fondamento';
+<<<<<<< HEAD
     font-size: 26px;
+=======
+    font-size: 35px;
+>>>>>>> development
 }
 p{
     text-align: center;
