@@ -55,7 +55,7 @@ $con->close();
 </head>
 
 <body>
-    <div class="container">
+    <div class="container test-container">
         <h3>Welcome to IIT Kharagpur US trip form</h3>
         <p>Enter your details and submit this form to confirm your participation in this trip</p>
         <?php
