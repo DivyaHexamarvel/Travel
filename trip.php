@@ -36,14 +36,8 @@ $con->close();
 }
 ?>
 
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,9 +47,8 @@ $con->close();
     <link href="https://fonts.googleapis.com/css2?family=Amita&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Amita&family=Fondamento&display=swap" rel="stylesheet">
 </head>
-
 <body>
-    <div class="container">
+    <div class="container test">
         <h3>Welcome to IIT Kharagpur US trip form</h3>
         <p>Enter your details and submit this form to confirm your participation in this trip</p>
         <?php
